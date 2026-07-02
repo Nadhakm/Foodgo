@@ -22,4 +22,5 @@ Password: Pass@123
 ## Run
 
 flutter pub get
+
 flutter run
